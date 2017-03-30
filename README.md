@@ -6,4 +6,4 @@
 
 **User Story:** I can customize the length of each pomodoro.
 
-Find the Live Version for this at: []()
+Find the Live Version for this at: [https://gmunker.github.io/Pomodoro-Clock/](https://gmunker.github.io/Pomodoro-Clock/)
